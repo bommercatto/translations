@@ -1,0 +1,22 @@
+{* Este é um bloco de comentário
+
+Variáveis disponíveis neste template:
+  - name            Nome do destinatário
+  - email           Endereço de email do destinatário
+  - product_name    Nome do produto
+  - product_url     Url do produto
+  - product_image   Url da imagem pequena do produto (75 px)
+  - message         Mensagem personalizada do remetente
+  - sender_name     Nome do remetente
+  - sender_email    Email do remetente
+
+Uso de variáveis: {{var var_name}}
+*}<!--@subject Bem vindo, {{var name}} @-->
+<!--@vars
+{"htmlescape var=$name":"Recipient Name",
+"var product_url":"Url for Product",
+"var product_name":"Product Name",
+"var message":"Sender Message"}
+@-->
+
+Bem vindo, {{htmlescape var=$name}}<br /><br />Por favor, dê uma olhada em <a href="{{var product_url}}">{{var product_name}}</a><br /><br />Aqui está a mensagem: <br />{{var message}}<br /><br />
