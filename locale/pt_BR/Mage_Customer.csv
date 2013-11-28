@@ -170,6 +170,7 @@
 "Hello, %s!","Olá, %s!"
 "ID","ID"
 "IP Address","Endereço de IP"
+"If there is an account associated with %s you will receive an email with a link to reset your password.","Se houver uma conta associada com %s você receberá um email com um link para redefinir sua senha."
 "If you believe this is an error, please contact us at %s","Se você acredita que isso é um erro, por favot entre em contato conosco em %s"
 "If you have an account with us, please log in.","Se você tem uma conta conosco, por favor faça login."
 "Invalid attribute option specified for attribute %s (%s), skipping the record.","Opção de atributo inválida especificada para o atributo %s (%s), ignorando o registro."
