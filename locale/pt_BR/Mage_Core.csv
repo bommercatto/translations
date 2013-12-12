@@ -366,7 +366,7 @@
 "Use Secure URLs in Admin","Usar URLs Seguras no Admin"
 "Use Secure URLs in Frontend","Usar URLs Seguras no Frontend"
 "Use Web Server Rewrites","Usar Reescritas do Servidor Web"
-"VAT Number","Número VAT"
+"VAT Number","CPF"
 "Validate HTTP_USER_AGENT","Validar HTTP_USER_AGENT"
 "Validate HTTP_VIA","Validar HTTP_VIA"
 "Validate HTTP_X_FORWARDED_FOR","Validar HTTP_X_FORWARDED_FOR"
